@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itidaozo.github.io/MSn/sitemap_index.txt
+Sitemap: https://itidaozo.github.io/aoq/sitemap_index.txt
+Sitemap: https://itidaozo.github.io/cEg/sitemap_index.txt
+Sitemap: https://itidaozo.github.io/gUY/sitemap_index.txt
